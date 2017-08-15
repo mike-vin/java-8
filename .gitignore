@@ -1,0 +1,19 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+.iml
+out
+gen
+Будет удалено .gitignore
+Будет удалено .idea/
+Будет удалено account-model/account-model.iml
+Будет удалено binary-search-tree/binary-search-tree.iml
+Будет удалено function-factory-task/function-factory-task.iml
+Будет удалено java-8-parent.iml
+Будет удалено lambda-basics/lambda-basics.iml
+Будет удалено optional-basics/optional-basics.iml
+Будет удалено stream-api/stream-api.iml
+Будет удалено util/util.iml
